@@ -3,6 +3,7 @@ sudo pacman -Sy networkmanager \
   git \
   base-devel \
   fastfetch \
+  flatpak \
   htop \
   btop \
   fish \
