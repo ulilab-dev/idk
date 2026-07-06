@@ -1,0 +1,40 @@
+#!/bin/sh
+
+sudo pacman -Sy wlroots0.19 \
+                flatpak \
+                fish \
+                eza \
+                starship \
+                ttf-jetbrains-mono-nerd \
+                kitty \
+                vim \
+                micro \
+                rofi \
+                rofi-emoji \
+                waybar \
+                qt6ct \
+                nwg-look \
+                adw-gtk-theme \
+                awww \
+                networkmanager-dmenu \
+                networkmanager \
+                cliphist \
+                wl-clipboard \
+                pavucontrol \
+                fastfetch \
+                baobab \
+                dolphin \
+                ark \
+                kate \
+                haruna \
+                gwenview \
+                archlinux-xdg-menu \
+                kde-cli-tools \
+                power-profiles-daemon \
+                nvidia-open-lts \
+                nvidia-utils \
+                lib32-nvidia-utils \
+                lib32-opencl-nvidia \
+                opencl-nvidia \
+                nvidia-settings \
+                
