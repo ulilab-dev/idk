@@ -2,6 +2,7 @@
 
 sudo pacman -Sy wlroots0.19 \
                 wayland-protocols \
+                xdg-desktop-portal-wlr \
                 git \
                 base-devel \
                 wlr-randr \
