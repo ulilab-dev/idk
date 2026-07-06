@@ -15,9 +15,9 @@ sudo pacman -Sy wlroots0.19 \
                 rofi \
                 rofi-emoji \
                 waybar \
-		dunst \
-		qt5-wayland \
-	       	qt6-wayland \
+        		dunst \
+	        	qt5-wayland \
+	         	qt6-wayland \
                 qt6ct \
                 nwg-look \
                 adw-gtk-theme \
@@ -37,6 +37,7 @@ sudo pacman -Sy wlroots0.19 \
                 archlinux-xdg-menu \
                 kde-cli-tools \
                 power-profiles-daemon \
+                polkit-gnome \
                 nvidia-open-lts \
                 nvidia-utils \
                 lib32-nvidia-utils \
