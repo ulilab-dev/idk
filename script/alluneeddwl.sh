@@ -1,6 +1,9 @@
 #!/bin/sh
 
 sudo pacman -Sy wlroots0.19 \
+                git \
+                base-devel \
+                wlr-randr \
                 flatpak \
                 fish \
                 eza \
