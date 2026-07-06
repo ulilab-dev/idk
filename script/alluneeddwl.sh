@@ -47,5 +47,5 @@ sudo pacman -Sy wlroots0.19 \
                 lib32-nvidia-utils \
                 lib32-opencl-nvidia \
                 opencl-nvidia \
-                nvidia-settings \
+                nvidia-settings 
                 
