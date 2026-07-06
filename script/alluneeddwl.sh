@@ -16,6 +16,7 @@ sudo pacman -Sy wlroots0.19 \
                 rofi \
                 rofi-emoji \
                 waybar \
+                hyprlock \
         		dunst \
 	        	qt5-wayland \
 	         	qt6-wayland \
