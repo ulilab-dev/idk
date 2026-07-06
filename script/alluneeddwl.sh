@@ -29,6 +29,8 @@ sudo pacman -Sy wlroots0.19 \
                 wl-clipboard \
                 pavucontrol \
                 fastfetch \
+                htop \
+                btop \
                 baobab \
                 dolphin \
                 ark \
