@@ -15,6 +15,9 @@ sudo pacman -Sy wlroots0.19 \
                 rofi \
                 rofi-emoji \
                 waybar \
+		dunst \
+		qt5-wayland \
+	       	qt6-wayland \
                 qt6ct \
                 nwg-look \
                 adw-gtk-theme \
