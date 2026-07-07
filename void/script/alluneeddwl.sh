@@ -18,6 +18,7 @@ sudo xbps-install -S wlroots \
                      cliphist \
                      wl-clipboard \
                      wl-clip-persist \
+                     ffmpegthumbs \
                      htop \
                      btop \
                      baobab \
