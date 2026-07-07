@@ -38,6 +38,9 @@ sudo xbps-install -S wlroots \
                      fish-shell \
                      eza \
                      starship \
+                     void-repo-multilib \
+                     void-repo-nonfree \
+                     void-repo-multilib-nonfree	\
                      
                      
                      
