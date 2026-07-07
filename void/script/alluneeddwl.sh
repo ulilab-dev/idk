@@ -2,6 +2,7 @@
 
 sudo xbps-install -S wlroots \
                      wlr-randr \
+                     wayland-protocols \
                      waybar \
                      rofi \
                      rofi-emoji \
