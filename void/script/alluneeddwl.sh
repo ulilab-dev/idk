@@ -7,6 +7,7 @@ sudo xbps-install -S wlroots \
                      rofi-emoji \
                      flatpak \
                      dunst \
+                     pavucontrol \
                      vim \
                      micro \
                      qt5-wayland \
