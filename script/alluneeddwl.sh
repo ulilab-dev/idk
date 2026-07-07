@@ -30,6 +30,7 @@ sudo pacman -Sy wlroots0.19 \
                 networkmanager \
                 cliphist \
                 wl-clipboard \
+                wl-clip-persist \
                 pavucontrol \
                 fastfetch \
                 htop \
