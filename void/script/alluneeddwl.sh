@@ -8,6 +8,7 @@ sudo xbps-install -S wlroots \
                      rofi-emoji \
                      flatpak \
                      dunst \
+                     kitty \
                      pavucontrol \
                      vim \
                      micro \
