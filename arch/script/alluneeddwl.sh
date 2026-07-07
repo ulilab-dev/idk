@@ -31,6 +31,7 @@ sudo pacman -Sy wlroots0.19 \
                 cliphist \
                 wl-clipboard \
                 wl-clip-persist \
+                ffmpegthumbs \
                 pavucontrol \
                 fastfetch \
                 htop \
