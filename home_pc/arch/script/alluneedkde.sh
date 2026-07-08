@@ -17,9 +17,5 @@ sudo pacman -Sy networkmanager \
   gwenview \
   haruna \
   ttf-jetbrains-mono-nerd \
-  opencl-nvidia \
-  lib32-opencl-nvidia \
-  lib32-nvidia-utils \
-  nvidia-settings \
   baobab \
   micro
