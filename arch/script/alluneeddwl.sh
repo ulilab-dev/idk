@@ -45,11 +45,5 @@ sudo pacman -Sy wlroots0.19 \
                 archlinux-xdg-menu \
                 kde-cli-tools \
                 power-profiles-daemon \
-                polkit-gnome \
-                nvidia-open-lts \
-                nvidia-utils \
-                lib32-nvidia-utils \
-                lib32-opencl-nvidia \
-                opencl-nvidia \
-                nvidia-settings 
+                polkit-gnome 
                 
