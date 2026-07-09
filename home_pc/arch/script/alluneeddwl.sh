@@ -26,6 +26,7 @@ sudo pacman -Sy wlroots0.19 \
                 nwg-look \
                 adw-gtk-theme \
                 awww \
+                network-manager-applet \
                 networkmanager-dmenu \
                 networkmanager \
                 cliphist \

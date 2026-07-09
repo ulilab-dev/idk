@@ -25,6 +25,7 @@ sudo pacman -Sy hyprland \
                 nwg-look \
                 adw-gtk-theme \
                 awww \
+                network-manager-applet \
                 networkmanager-dmenu \
                 networkmanager \
                 cliphist \
