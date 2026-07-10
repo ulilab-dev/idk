@@ -1,5 +1,10 @@
 #!/bin/sh
-sudo pacman -Sy networkmanager \
+sudo pacman -Sy plasma-meta \
+                xdg-utils \
+                smartmontools \
+                openssh \
+                wget \
+                networkmanager \
                 git \
                 base-devel \
                 fastfetch \
@@ -18,4 +23,6 @@ sudo pacman -Sy networkmanager \
                 haruna \
                 ttf-jetbrains-mono-nerd \
                 baobab \
+                nano \
+                vim \
                 micro
