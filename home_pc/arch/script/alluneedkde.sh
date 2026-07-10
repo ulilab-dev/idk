@@ -16,6 +16,7 @@ sudo pacman -Sy plasma-meta \
                 eza \
                 power-profiles-daemon \
                 dolphin \
+                ffmpegthumbs \
                 ark \
                 konsole \
                 kate \
