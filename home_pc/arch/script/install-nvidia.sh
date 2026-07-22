@@ -5,5 +5,6 @@ sudo pacman -Sy nvidia-open \
                 lib32-nvidia-utils \
                 lib32-opencl-nvidia \
                 opencl-nvidia \
-                nvidia-settings 
+                nvidia-settings --noconfirm
+                
                 
