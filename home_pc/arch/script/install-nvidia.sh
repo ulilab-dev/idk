@@ -6,6 +6,4 @@ sudo pacman -Sy nvidia-open \
                 lib32-opencl-nvidia \
                 opencl-nvidia \
                 libva-nvidia-driver \
-                nvidia-settings --noconfirm
-                
-                
+                nvidia-settings 
