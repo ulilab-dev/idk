@@ -6,5 +6,4 @@ sudo pacman -Sy libva-nvidia-driver \
     opencl-nvidia-580xx \
     nvidia-580xx-dkms \
     nvidia-580xx-utils \
-    libxnvctrl-580xx \
     nvidia-580xx-settings
