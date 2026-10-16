@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo pacman -Sy wlroots0.19 \
+sudo pacman -Sy wlroots0.20 \
                 wayland-protocols \
                 xdg-desktop-portal-wlr \
                 fcft \
