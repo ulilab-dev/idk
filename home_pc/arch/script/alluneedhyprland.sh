@@ -3,6 +3,8 @@
 sudo pacman -Sy hyprland \
                 hyprland-qt-support \
                 xdg-desktop-portal-hyprland \
+				gamemode \ 
+                lib32-gamemode \
                 git \
                 base-devel \
                 flatpak \
