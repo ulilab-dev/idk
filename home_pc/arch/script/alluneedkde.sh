@@ -1,5 +1,7 @@
 #!/bin/sh
 sudo pacman -Sy plasma-meta \
+                gamemode \ 
+                lib32-gamemode \
                 xdg-utils \
                 smartmontools \
                 openssh \
