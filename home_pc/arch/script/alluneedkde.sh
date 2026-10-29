@@ -28,5 +28,5 @@ sudo pacman -Sy plasma-meta \
                 baobab \
                 nano \
                 vim \
-                micro --noconfirm
+                micro 
                 
