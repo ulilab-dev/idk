@@ -5,6 +5,8 @@ sudo pacman -Sy wlroots0.20 \
                 xdg-desktop-portal-wlr \
                 fcft \
                 tllist \
+				gamemode \ 
+                lib32-gamemode \
                 git \
                 base-devel \
                 wlr-randr \
