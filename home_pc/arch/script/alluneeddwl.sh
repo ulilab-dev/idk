@@ -50,6 +50,6 @@ sudo pacman -Sy wlroots0.20 \
                 archlinux-xdg-menu \
                 kde-cli-tools \
                 power-profiles-daemon \
-                polkit-gnome --noconfirm
+                polkit-gnome 
                 
                 
