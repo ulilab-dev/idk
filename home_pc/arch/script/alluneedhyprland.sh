@@ -47,6 +47,6 @@ sudo pacman -Sy hyprland \
                 archlinux-xdg-menu \
                 kde-cli-tools \
                 power-profiles-daemon \
-                polkit-gnome --noconfirm
+                polkit-gnome 
                 
                 
